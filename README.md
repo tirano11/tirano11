@@ -1,16 +1,26 @@
-## Hi there 👋
+# 안녕하세요! 공부도 하고 개발도 끓이는 중인 학생입니다.
 
-<!--
-**tirano11/tirano11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “코드도 인생도, 한 줄 한 줄 정성스럽게.”  
+> — 미래의 나에게 하는 말
 
-Here are some ideas to get you started:
+반가워요, 저는 요즘 컴퓨터공학이라는 맛있는 재료로 이것저것 실험 중인 대학생입니다.  
+디지털 논리회로로 회로 머리를 깨우고, 이산수학으로 사고력을 단련하고,  
+C++로 진짜 '프로그래밍'이라는 맛을 알아가고 있어요.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 요즘 관심 있는 것들
+- 하드웨어를 이해하는 소프트웨어 개발자 되기
+- C++로 나만의 작은 툴 만들기
+- 기초부터 탄탄한 알고리즘 실력 쌓기
+
+## 지금 하고 있는 공부
+- `C++` (with 『Do it! C++』)
+- `디지털 논리회로` (김종현 저)
+- `이산수학` (박창현 저)
+
+## 앞으로 목표
+- 재미있는 토이 프로젝트로 깃허브 채우기
+- 알고리즘 문제 풀이를 꾸준히 기록하기
+- 나만의 개발 블로그 시작해보기
+
+언젠가는 저만의 ‘개발 시그니처’를 가진 사람이 되는 게 목표예요.  
+들러주셔서 감사합니다! 🙌
